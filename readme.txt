@@ -8,4 +8,6 @@ test branch div.
 
 >>>>>>> div
 
-I never leave here.
+<<<<<<< HEAD
+I never leave here. --master
+I wanna leave here. --brady
